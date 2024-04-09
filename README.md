@@ -1,4 +1,4 @@
-## Lick-Detection
+## Mouse Lick Detection
 
  ### Pictures
 
