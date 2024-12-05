@@ -10,5 +10,5 @@ _Rendering of the Lick-Detection (by Mehrdad Ghanbari)._
 The leak detection algorithm is based on the following paper:
 ![](https://github.com/iBehave-eLab/Mouse-lick-detection/blob/main/Pics/pone.0204066.g001.png)
 Pieter M. Goltstein, Sandra Reinert, Annet Glas, Tobias Bonhoeffer,Mark HuÈbener "Food and water restriction lead to differential learning behaviors in a head-fixed two-choice visual discrimination task for mice ". PLOS ONE, Published: September 13, 2018 https://doi.org/10.1371/journal.pone.0204066
-
+Mich
 
